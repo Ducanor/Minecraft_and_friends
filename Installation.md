@@ -9,7 +9,7 @@ Ladet euch [Minecraft](https://www.minecraft.net/de-de/download) für euer jewei
 ## 3. Forge 1.12.2
 Am besten erstellt ihr euch einen Minecraft Ordner, in dem ihr alle relevanten Downloads zu Minecraft speichert. Dies dient der besseren Übersicht und gleichzeitig als Backup.
 
-Ladet euch [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) herunter. Ihr könnt einfach den recommended Download verwenden.
+Ladet euch den [Forge Installer](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) herunter. Ihr könnt einfach den recommended Download verwenden.
 
 Rechts-klickt auf die `forge-1.12.2-Versionsnummer-installer.jar` Datei und öffnet es mit `Java`.
 
