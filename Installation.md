@@ -21,8 +21,3 @@ Wählt `Install Client` aus und bestätigt mit `OK`.
 
 # Grundlegende Installation für Linux
 Die einfachste Variante scheint wohl über [MultiMC](https://themightymo.com/how-to-run-minecraft-mods-on-linux-ubuntu/) zu sein. In dem Beitrag steht nichts davon, dass Java installiert sein muss, anders als bei Windows. Falls es allerdings zu Problemen kommen sollte, hier ein Tutorial für die Einrichtung von [Java](https://ubuntu.com/tutorials/install-jre#1-overview) in Ubunutu.
-
-# Mods Installation
-Um auf unserem Server zu spielen werden einige Mods benötigt. Davon abgesehen erweitern und verbessern Mods euer Spielerlebnis. Grundsätzlich werden Mods installiert, indem sie von einer [vertrauenswürdigen Seite für Mods](https://www.curseforge.com/minecraft/mc-mods) runtergeladen und anschließend in dem mods Ordner verschoben werden. Bei mir befindet sich dieser Ordner an dieser Stelle `C:\Users\Duc-p\AppData\Roaming\.minecraft\mods`. Solange ihr mit `Forge` arbeitet, könnt ihr im mods Ordner auch einen Ordner mit der Minecraft Versionsnummer, z.b. `1.12.2` erstellen und darin mods für die jeweilige Version sammeln.
-
-![image](https://user-images.githubusercontent.com/79201799/146653659-87f932ed-db59-4b01-8b94-f132177e646c.png)
