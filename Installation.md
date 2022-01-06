@@ -4,7 +4,7 @@
 Installiert [Java](https://www.java.com/de/download/) für euer Betriebssystem.
 
 ## 2. Minecraft Basisspiel
-Ladet euch [Minecraft](https://www.minecraft.net/de-de/download) für euer jeweiliges Betriebssystem herunter. Gegebenenfalls ist das auch über den Microsoft Store möglich und auch einfacher.
+Kauft euch [Minecraft Java Edition](https://www.mmoga.de/Game-Keys/Minecraft.html) und ladet euch [Minecraft](https://www.minecraft.net/de-de/download) für euer jeweiliges Betriebssystem herunter. Gegebenenfalls ist das auch über den Microsoft Store möglich und auch einfacher.
 
 ## 3. Forge 1.12.2
 Am besten erstellt ihr euch einen Minecraft Ordner, in dem ihr alle relevanten Downloads zu Minecraft speichert. Dies dient der besseren Übersicht und gleichzeitig als Backup.
