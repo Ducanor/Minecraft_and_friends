@@ -6,6 +6,8 @@ Um auf unserem Server zu spielen werden einige Mods benötigt. Davon abgesehen e
 ## 1. Runterladen von Mods
 Unser Server verwendet die Minecraft Version `1.12.2`. Wählt einen Mod aus und geht auf `Dateien`.
 
+Notiz: Auf diesem Github sind die notwendigen und empfohlenen Mods bereits in einem Ordner aufgelistet, ihr diese direkt runterladen und einfügen.
+
 ![image](https://user-images.githubusercontent.com/79201799/146653893-4a6f5412-5fba-41b7-9694-5fc4dcf15adc.png)
 
 Geht nun auf `Alle anzeigen` und wählt eure gewünschte Spielversion unter dem Reiter `Alle Spielversionen` aus.
